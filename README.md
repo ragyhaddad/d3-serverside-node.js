@@ -2,6 +2,7 @@
 Serverside rendering backbone code for D3.js
 #### Example usage 
 After you start your app you can call requests from your javascript client-side
+And append your server rendered visualization to your DOM
 
 ```javascript
 <!DOCTYPE html>
