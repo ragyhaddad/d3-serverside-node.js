@@ -18,8 +18,8 @@ And append your server rendered visualization to your DOM
     
 </body>
 </html>
-<script>    
 
+<script>    
     $.get('http://localhost:3000/', function(data){
         $('body').html(data);
     })
