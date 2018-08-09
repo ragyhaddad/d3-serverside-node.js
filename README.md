@@ -1,4 +1,4 @@
-### D3 serverside backbone on node express.js
+### D3 serverside setup on node express.js
 Serverside rendering backbone code for D3.js
 #### Example usage 
 After you start your app you can call requests from your javascript client-side
