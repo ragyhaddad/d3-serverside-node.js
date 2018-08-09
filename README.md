@@ -23,10 +23,6 @@ After you start your app you can call requests from your javascript client-side
         $('body').html(data);
     })
 </script>
-<style>
-    rect{
-        margin-right: 10px;
-    }
-</style>
+
 
 
